@@ -16,7 +16,7 @@ Running AI on the cloud
 * AMD networking
 * AMD GPU software (AMD ROCm 6 open source software)
 
-  ## NVIDIA Cloud and Hardware
+## NVIDIA Cloud and Hardware
 
-  * AMD cloud
-  * AMD GPUS
+* AMD cloud
+* AMD GPUS
