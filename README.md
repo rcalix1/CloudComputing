@@ -22,3 +22,9 @@ Running AI on the cloud
 
 * AMD cloud
 * AMD GPUS
+
+## Running on Multiple GPUs
+
+* HF Accelerate
+* NVIDIA NeMo
+* Ray 
