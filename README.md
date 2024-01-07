@@ -7,6 +7,8 @@ Running AI on the cloud
 
 * AWS
 * Azure
+* HF 
+* Lambda Labs (https://lambdalabs.com)
 
 ## AMD Cloud and Hardware
 
