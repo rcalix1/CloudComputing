@@ -27,4 +27,6 @@ Running AI on the cloud
 
 * HF Accelerate
 * NVIDIA NeMo
-* Ray 
+* Ray
+* PyTorch DDP
+  
