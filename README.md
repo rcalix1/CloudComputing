@@ -29,4 +29,11 @@ Running AI on the cloud
 * NVIDIA NeMo
 * Ray
 * PyTorch DDP
+
+## AI Cloud
+
+* Slurm
+* OpenStack
+* Kubernetes
+  
   
