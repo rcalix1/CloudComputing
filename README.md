@@ -35,5 +35,6 @@ Running AI on the cloud
 * Slurm
 * OpenStack
 * Kubernetes
+* https://ubuntu.com/kubernetes/docs/tutorials-index
   
   
