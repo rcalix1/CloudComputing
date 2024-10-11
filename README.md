@@ -38,5 +38,13 @@ Running AI on the cloud
 * https://ubuntu.com/kubernetes/docs/tutorials-index
 
 ## Payments
+
+* Stripe
+
+## ML Pipeline
+
+* Replicate.com
+* ONNX
+* PyScript
   
   
