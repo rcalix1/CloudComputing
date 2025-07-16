@@ -1,3 +1,7 @@
+# AI Model deployment and ML ops 
+
+* AI Model Deployment and MLOps
+
 ## Replicate examples 
 
 * $$ pip install replicate
