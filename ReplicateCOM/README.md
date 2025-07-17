@@ -10,4 +10,7 @@
 * https://replicate.com/account/api-tokens
 * 
 
+## Fine Tune a Flux model with your images
 
+* https://replicate.com/docs/get-started/fine-tune-with-flux
+* 
