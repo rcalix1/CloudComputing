@@ -14,3 +14,11 @@
 
 * https://replicate.com/docs/get-started/fine-tune-with-flux
 * 
+
+## FastAPI
+
+* https://github.com/rcalix1/MachineLearningFoundations/tree/main/DeployToWeb/fastAPI
+* streamlit
+* curl
+* fastAPI
+* API_token
