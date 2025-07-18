@@ -34,6 +34,7 @@ This session introduces the key concepts, tools, and workflows needed to deploy 
 - Understand what it means to "deploy" a machine learning model
 - Identify core components of a minimal deployment architecture
 - Explore best practices in MLOps: model versioning, CI/CD, monitoring
+- CI/CD = Continuous Integration / Continuous Deployment
 - Learn how to scale from quick demos to production-grade services
 
 ---
