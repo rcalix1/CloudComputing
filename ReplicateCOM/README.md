@@ -135,3 +135,15 @@ MLOps is the **DevOps for machine learning**. It includes everything needed to:
 - **Docker** – containerize your model + API together
 - **Kubernetes** – run containers at scale with autoscaling and resilience
 - **ngrok** – public tunneling for local apps
+
+## 👤 Contact
+
+This material was created by **Ricardo Calix**, professor, AI consultant, and author of several books on machine learning and cybersecurity.
+
+- 🌐 Website: [www.rcalix.com](https://www.rcalix.com)
+- 📧 Email: [rcalix@rcalix.com](mailto:rcalix@rcalix.com)
+
+
+
+
+
