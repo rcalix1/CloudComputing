@@ -2,6 +2,10 @@
 
 Running AI on the cloud
 
+## GCP
+
+* https://github.com/Rex5433?tab=repositories
+* 
 
 ## Providers
 
